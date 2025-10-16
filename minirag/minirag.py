@@ -50,6 +50,7 @@ STORAGES = {
     "MongoGraphStorage": ".kg.mongo_impl",
     "RedisKVStorage": ".kg.redis_impl",
     "ChromaVectorDBStorage": ".kg.chroma_impl",
+    "QdrantVectorDBStorage": ".kg.qdrant_impl",
     "TiDBKVStorage": ".kg.tidb_impl",
     "TiDBVectorDBStorage": ".kg.tidb_impl",
     "TiDBGraphStorage": ".kg.tidb_impl",
